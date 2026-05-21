@@ -98,6 +98,9 @@ claude_interface: [Claude.ai | Claude Code | API]
 | Skill | Category | Framework | Level |
 |---|---|---|---|
 | AI × Sustainability Weekly Scan | Research & Intelligence | General | Beginner |
+| Field Inspection Prep | Procurement & Supply Chain | General | Intermediate |
+| Low-Computer Article Visuals | Data Analysis & Visualization | General | Advanced |
+| Research Writing Assistant | Document Production | General | Advanced |
 | *(more skills coming, submit a pull request!)* | | | |
 
 ---
