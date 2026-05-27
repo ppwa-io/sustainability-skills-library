@@ -1,14 +1,14 @@
 ---
 name: regenag-research-synthesis
 description: >
-  Searches and synthesises recent peer-reviewed evidence on regenerative agriculture outcomes —
-  filtered by crop type, geography, and farming system — to support a specific sourcing or
-  procurement decision. Use when a client needs to make an evidence-based case for regenerative
+  Searches and synthesises recent peer-reviewed evidence on regenerative agriculture outcomes, 
+  filtered by crop type, geography, and farming system, to support a specific sourcing or
+  procurement decision. Use to make an evidence-based case for regenerative
   sourcing for a specific crop or region and the available literature feels scattered, inaccessible,
   or too academic for direct business use. Trigger phrases include: "find the evidence on regenerative
   farming for [crop]", "what does the research say about regen ag in [region]", "build an evidence
   brief for regenerative sourcing", "synthesise the literature on regenerative [outcome]".
-category: Reporting & Disclosure
+category: Procurement & Supply Chain
 framework_alignment: General
 audience_level: Intermediate
 claude_interface: Claude.ai
@@ -16,7 +16,7 @@ claude_interface: Claude.ai
 
 # Regenerative Agriculture Research Synthesis — Skill
 
-**Description:** Searches and synthesises recent peer-reviewed evidence on regenerative agriculture outcomes — filtered by crop type, geography, and farming system — to support a specific sourcing or procurement decision. Produces a concise, cited evidence brief ready for internal use or client presentation.
+**Description:** Searches and synthesises recent peer-reviewed evidence on regenerative agriculture outcomes, filtered by crop type, geography, and farming system, to support a specific sourcing or procurement decision. Produces a concise, cited evidence brief ready for internal use or client presentation.
 
 **When to use:** When one is making an evidence-based case for regenerative sourcing for a specific crop or region, and the available literature feels scattered, inaccessible, or too academic to use directly in a business context.
 
@@ -52,7 +52,7 @@ Claude will run targeted searches, filter for credible and recent sources, and p
 Claude will run 6–10 targeted searches across:
 
 - **Academic databases:** Google Scholar, PubMed, Web of Science (recent results prioritised)
-- **Preprint servers:** arXiv, bioRxiv (for cutting-edge findings not yet peer-reviewed — flagged clearly)
+- **Preprint servers:** arXiv, bioRxiv (for cutting-edge findings not yet peer-reviewed, clearly flagged)
 - **Institutional reports:** Food and Agriculture Organization (FAO), Intergovernmental Panel on Climate Change (IPCC), International Food Policy Research Institute (IFPRI), Rodale Institute, land-grant university extension programs
 - **Meta-analyses and systematic reviews:** Prioritised where available, as they synthesise across many individual studies
 
@@ -141,8 +141,8 @@ Claude will apply the following filters before including a source:
 
 - This skill produces a research brief, not a systematic review. It is designed for practical use in business and consulting contexts, not academic publication.
 - Where evidence is thin for a specific crop or geography, Claude will say so clearly and suggest the closest available analogues rather than overstate the case.
-- For translating evidence into financial projections, pair with the **Regenerative Sourcing ROI Model Skill**. For supplier-level assessment, pair with the **Regenerative Supplier Sustainability Assessment Skill**.
+- For translating evidence into financial projections, pair with the [**Regenerative Sourcing ROI Model Skill**](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-roi-model). For supplier-level assessment, pair with the [**Regenerative Supplier Sustainability Assessment Skill**](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-supplier-assess).
 
 ---
 
-*This skill is part of the PPWA RegenAg Toolkit. Pair with: ROI Model Skill · Supplier Assessment Skill.*
+*This skill is part of the PPWA RegenAg Toolkit. Pair with: [ROI Model Skill](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-roi-model) · [Supplier Assessment Skill](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-supplier-assess).*
