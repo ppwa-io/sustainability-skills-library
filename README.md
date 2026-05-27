@@ -1,4 +1,4 @@
-# Skills Library for Sustainability Professionals
+# Claude Skills Library for Sustainability Professionals
 
 An open-source library of **SKILL.md files** for sustainability practitioners working with [Claude](https://claude.ai) and [Claude Code](https://claude.ai/claude-code).
 
