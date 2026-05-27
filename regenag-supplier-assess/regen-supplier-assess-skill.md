@@ -238,4 +238,4 @@ To compare multiple suppliers, provide inputs for each and ask Claude to produce
 
 ---
 
-*This skill is part of the PPWA RegenAg Toolkit. Pair with: ROI Model Skill · Research Synthesis Skill.*
+*This skill is part of the PPWA RegenAg Toolkit. Pair with: [ROI Model Skill](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-roi-model) · [Research Synthesis Skill](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-research-synthesis).*
