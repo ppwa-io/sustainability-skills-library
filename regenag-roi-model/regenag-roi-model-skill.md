@@ -3,12 +3,12 @@ name: regenag-roi-model
 description: >
   Builds a structured 5–10 year financial comparison between regenerative and conventional
   agricultural sourcing, modelling transition costs, input cost trajectories, yield resilience,
-  and Scope 3 carbon sequestration value. Use when a client needs to make the internal business
+  and Scope 3 carbon sequestration value. Use when one needs to make the internal business
   case for regenerative sourcing to procurement leads, Chief Financial Officers (CFOs), or
-  sustainability committees and requires numbers, not just narrative. Trigger phrases include:
+  sustainability committees and requires quantitative evidence. Trigger phrases include:
   "build a regenerative sourcing ROI model", "make the financial case for regen sourcing",
   "model the cost of transitioning to regenerative", "compare conventional vs regenerative costs".
-category: Reporting & Disclosure
+category: Procurement & Supply Chain
 framework_alignment: GHG Protocol | SBTi | General
 audience_level: Intermediate
 claude_interface: Claude.ai
@@ -18,7 +18,7 @@ claude_interface: Claude.ai
 
 **Description:** Builds a structured 5–10 year financial comparison between regenerative and conventional agricultural sourcing. Models transition costs, input cost hedging, yield resilience during climate-stress years, and Scope 3 carbon sequestration value. Produces a presentation-ready summary for procurement or finance teams.
 
-**When to use:** When one is making the internal business case for regenerative sourcing — to procurement leads, Chief Financial Officers (CFOs), or sustainability committees — and needs numbers, not just narrative.
+**When to use:** When one is making the internal business case for regenerative sourcing to procurement leads, Chief Financial Officers (CFOs), or sustainability committees with quantitative evidence.
 
 **Created by:** Rochelle March, PPWA (rochelle@ppwa.io)
 
@@ -34,7 +34,7 @@ claude_interface: Claude.ai
 
 ## Inputs to provide
 
-Before Claude can build the model, gather the following. Estimates are acceptable — note where figures are estimated versus confirmed.
+Before Claude can build the model, gather the following. Estimates are acceptable, but note where figures are estimated versus confirmed.
 
 | Input | Description | Example |
 |-------|-------------|---------|
@@ -107,7 +107,7 @@ Before Claude can build the model, gather the following. Estimates are acceptabl
 
 ## Evidence grounding
 
-This model draws on the evidence base synthesised in *The ROI of Regenerative Agriculture* (Zahraie & March, PPWA, May 2026), which reviewed 495 peer-reviewed field studies. Key benchmarks used:
+This model draws on the evidence base synthesised in *[The ROI of Regenerative Agriculture](https://static1.squarespace.com/static/6387cf630aeb337b64a76781/t/6a170216bc301f3e7556e831/1779892759261/PPWA_RegenerativeAg_Research.pdf)* (Zahraie & March, PPWA, May 2026), which reviewed 495 peer-reviewed field studies. Key benchmarks used:
 
 - **Input cost reduction:** 20–43% lower than conventional (LaCanne & Lundgren, 2018; Jacobs et al., 2022)
 - **Net profit uplift:** 20–78% higher over comparable horizons
