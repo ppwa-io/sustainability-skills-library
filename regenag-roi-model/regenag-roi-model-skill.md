@@ -5,10 +5,10 @@ description: >
   agricultural sourcing, modelling transition costs, input cost trajectories, yield resilience,
   and Scope 3 carbon sequestration value. Use when one is making the internal business
   case for regenerative sourcing to procurement leads, Chief Financial Officers (CFOs), or
-  sustainability committees and requires numbers, not just narrative. Trigger phrases include:
+  sustainability committees and requires quantitative evidence. Trigger phrases include:
   "build a regenerative sourcing ROI model", "make the financial case for regen sourcing",
   "model the cost of transitioning to regenerative", "compare conventional vs regenerative costs".
-category: Reporting & Disclosure
+category: Procurement & Supply Chain
 framework_alignment: GHG Protocol | SBTi | General
 audience_level: Intermediate
 claude_interface: Claude.ai
@@ -18,7 +18,7 @@ claude_interface: Claude.ai
 
 **Description:** Builds a structured 5–10 year financial comparison between regenerative and conventional agricultural sourcing. Models transition costs, structural input cost exposure, yield resilience during climate-stress years, and Scope 3 carbon sequestration value. Produces a presentation-ready summary for procurement or finance teams.
 
-**When to use:** When one is making the internal business case for regenerative sourcing — to procurement leads, Chief Financial Officers (CFOs), or sustainability committees — and needs numbers, not just narrative.
+**When to use:** When one is making the internal business case for regenerative sourcing to procurement leads, Chief Financial Officers (CFOs), or sustainability committees and needs quantitative evidence.
 
 **Created by:** Rochelle March, PPWA (rochelle@ppwa.io)
 
@@ -34,7 +34,7 @@ claude_interface: Claude.ai
 
 ## Inputs to provide
 
-Before Claude can build the model, gather the following. Estimates are acceptable — note where figures are estimated versus confirmed.
+Before Claude can build the model, gather the following. Estimates are acceptable, but note where figures are estimated versus confirmed.
 
 | Input | Description | Example |
 |-------|-------------|---------|
@@ -120,14 +120,17 @@ This model draws on the evidence base synthesised in *[The ROI of Regenerative A
 - **Carbon sequestration:** 0.3–0.7 tCO2e per acre per year (Kenne & Kloot, 2019; Vendig et al., 2023)
 - **Transition period:** Years 1–5 typically involve yield adjustment; comparable performance from mid-transition onward (Poudel et al., 2001)
 
+See an example of a RegenAg ROI calculation in this [PPWA article](https://www.ppwa.io/insights/roi-of-regenerative-agriculture).
+
 ---
 
 ## Important notes
 
 - This model produces estimates, not audited financials. All figures should be validated against organisation-specific data before being used in formal procurement or investment decisions.
 - Where organisation data is unavailable, Claude will use published benchmark ranges and flag clearly.
-- For supplier-level data infrastructure, pair this skill with the **Regenerative Supplier Sustainability Assessment Skill**.
+- For supplier-level data infrastructure, pair this skill with the [**Regenerative Ag Supplier Sustainability Assessment Skill**](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-supplier-assess).
+- To gather crop-specific or recently published research, pair with the [**Regenerative Ag Research Synthesis Skill**](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-research-synthesis).
 
 ---
 
-*This skill is part of the PPWA RegenAg Toolkit. Pair with: Supplier Sustainability Assessment Skill · Research Synthesis Skill.*
+*This skill is part of the PPWA RegenAg Toolkit. Pair with: [Supplier Sustainability Assessment Skill](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-supplier-assess) · [Research Synthesis Skill](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-research-synthesis).*
