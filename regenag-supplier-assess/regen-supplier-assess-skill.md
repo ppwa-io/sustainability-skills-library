@@ -3,12 +3,12 @@ name: regenag-supplier-assessment
 description: >
   Evaluates and scores ingredient suppliers on their regenerative agriculture readiness using a
   tiered question framework that distinguishes standard asks, stretch asks, and forward-looking asks.
-  Use when a client is evaluating or onboarding ingredient suppliers and needs to assess regenerative
+  Use one is evaluating or onboarding ingredient suppliers and needs to assess regenerative
   practice maturity for sourcing strategy, supplier engagement, or sustainability reporting. Trigger
   phrases include: "assess this supplier on regenerative practices", "score our suppliers on regen ag
   readiness", "build a supplier scorecard for regenerative sourcing", "compare suppliers on
   sustainability", "evaluate supplier ESG data quality".
-category: Reporting & Disclosure
+category: Procurement & Supply Chain
 framework_alignment: GHG Protocol | GRI | General
 audience_level: Intermediate
 claude_interface: Claude.ai
@@ -41,7 +41,7 @@ Questions are organised into three tiers that reflect what is realistic to expec
 | Tier | Label | What to expect |
 |------|-------|----------------|
 | **Tier 1** | Standard ask | Most suppliers can answer these; commonly included in sustainability-forward RFPs and supplier questionnaires |
-| **Tier 2** | Stretch ask | Useful if available; indicates a more advanced supplier — but absence is not automatically penalised |
+| **Tier 2** | Stretch ask | Useful if available; indicates a more advanced supplier, but absence is not automatically penalised |
 | **Tier 3** | Forward-looking ask | Signals intent and direction of travel; a credible plan scores positively even without current data |
 
 **Scoring note:** A "not yet tracked" response is treated differently from "not doing this." Where a supplier acknowledges a gap and describes a plan to address it, this is captured under Tier 3 and factored into the Transition Readiness score.
@@ -64,7 +64,7 @@ Provide as much of the following as is available. Claude will flag gaps and note
 **Tier 1 — Standard ask**
 - Tillage approach in use (no-till, reduced-till, or conventional)
 - Whether cover cropping or crop rotation is practised
-- Participation in any regenerative certification or program (e.g., Regrow, IndigoAg, Certified Regenerative by A Greener World, Sustainable Agriculture Initiative (SAI) Platform)
+- Participation in any regenerative certification or program (e.g., Certified Regenerative by A Greener World, Sustainable Agriculture Initiative (SAI) Platform)
 
 **Tier 2 — Stretch ask** *(useful if available; absence not automatically penalised)*
 - Soil health monitoring: is it conducted? How often? By whom?
@@ -231,7 +231,7 @@ To compare multiple suppliers, provide inputs for each and ask Claude to produce
 
 ## Important notes
 
-- **Scores reflect the quality of available evidence, not necessarily the quality of a supplier's practices.** A supplier with strong practices but poor documentation will score lower — that gap is itself a procurement signal and an engagement agenda item.
+- **Scores reflect the quality of available evidence, not necessarily the quality of a supplier's practices.** A supplier with strong practices but poor documentation will score lower, indicating that the gap is itself a procurement signal and an engagement agenda item.
 - **"Not yet tracked" is not the same as "not doing this."** The tiered framework is designed to capture direction of travel, not just current state.
 - **This assessment does not replace on-farm verification or third-party audit.** Use it to prioritise suppliers for deeper engagement, not as a final compliance check.
 - For financial modelling of regenerative sourcing value, pair with the **Regenerative Sourcing ROI (Return on Investment) Model Skill**.
