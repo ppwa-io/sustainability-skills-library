@@ -19,8 +19,8 @@ Evaluates and scores ingredient suppliers on regenerative agriculture readiness 
 
 - No external tools required
 - Input can be pasted from RFP responses, sustainability reports, or interview notes
-- Pair with **RegenAg ROI Model Skill** to connect supplier practice data to financial projections
-- Pair with **RegenAg Research Synthesis Skill** to benchmark supplier claims against published field evidence
+- Pair with [**RegenAg ROI Model Skill**](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-roi-model) to connect supplier practice data to financial projections
+- Pair with [**RegenAg Research Synthesis Skill**](https://github.com/ppwa-io/sustainability-skills-library/tree/main/regenag-research-synthesis) to benchmark supplier claims against published field evidence
 
 ## Example inputs
 
