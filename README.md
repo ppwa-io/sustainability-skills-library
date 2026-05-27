@@ -100,6 +100,9 @@ claude_interface: [Claude.ai | Claude Code | API]
 | AI × Sustainability Weekly Scan | Research & Intelligence | General | Beginner |
 | Field Inspection Prep | Procurement & Supply Chain | General | Intermediate |
 | Low-Computer Article Visuals | Data Analysis & Visualization | General | Advanced |
+| RegenAg Research Synthesis | Procurement & Supply Chain | General | Intermediate |
+| RegenAg ROI Model | Reporting & Disclosure | GHG Protocol \| SBTi \| General | Intermediate |
+| RegenAg Supplier Assessment | Procurement & Supply Chain | GHG Protocol \| GRI \| General | Intermediate |
 | Research Writing Assistant | Document Production | General | Advanced |
 | *(more skills coming, submit a pull request!)* | | | |
 
